@@ -1,9 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
-import aboutImg from "../../../public/images/nameera.png";
-import founder from "../../../public/images/na2.png";
-import manager from "../../../public/images/na.jpg";
-import designer from "../../../public/images/na3.png";
+import aboutImg from "/images/nameera.png";
+import founder from "/images/na2.png";
+import manager from "/images/na.jpg";
+import designer from "/public/images/na3.png";
 import Footer from "../../components/Footer";
 import { BiStore } from "react-icons/bi";
 import { AiOutlineDollar } from "react-icons/ai";
